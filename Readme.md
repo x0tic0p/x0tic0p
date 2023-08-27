@@ -21,6 +21,13 @@
       title="Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   /></a>
+  <!--  -->
+  <a href="https://twitter.com/mrgamer_3334">
+    <img
+      alt="X"
+      title="Twitter"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  /></a>
   <a href="https://www.youtube.com/@XoTiCGamer?sub_confirmation=1">
     <img
       alt="youtube subscribers"
