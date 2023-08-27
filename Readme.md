@@ -1,4 +1,4 @@
-<!-- SVG Typing name -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=900&size=30&duration=1&pause=1&center=true&vCenter=true&repeat=false&width=1000&lines=Jaymin+Gohil)](https://git.io/typing-svg)
 
 <!-- SVG Typing description -->
