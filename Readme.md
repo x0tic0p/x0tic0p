@@ -19,7 +19,7 @@
     <img
       alt="Insta"
       title="Instagram"
-      src="https://img.shields.io/badge/mr.gamer_3334-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   /></a>
   <a href="https://www.youtube.com/@XoTiCGamer?sub_confirmation=1">
     <img
