@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=900&size=30&duration=1&pause=1&center=true&vCenter=true&repeat=false&width=1000&lines=Jaymin+Gohil)](https://git.io/typing-svg)
 
 <!-- SVG Typing description -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=900&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=BSCit+Ty+Student++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Learning+New+Things++%F0%9F%92%BC;Passionate+coder+and+learner+%F0%9F%A4%93%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=900&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=BSCit+Ty+Student++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Studying+At+GLS+University+In+Ahmedabad++%F0%9F%8E%93;Casual+Gamer++%F0%9F%8E%AE;Learning+New+Things++%F0%9F%92%BC;Passionate+coder+and+learner+%F0%9F%A4%93%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!-- Socials -->
 ## 🌍 Socials:
